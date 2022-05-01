@@ -20,6 +20,9 @@ def array():
             if i > max :
                 max  = i
 
+        c='Bob Marley'
+        print(c.split())
+
         print(max )
     except TypeError as e:
         print(f"Caught exception", {e}, {type(e)})
