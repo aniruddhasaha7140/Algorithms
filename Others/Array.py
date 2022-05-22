@@ -20,10 +20,17 @@ def array():
             if i > max_id:
                 max_id = i
 
+<<<<<<< HEAD:Others/Array.py
         c = 'Bob Marley'
         print(c.split())
 
         print(max_id)
+=======
+        c='Bob Marley'
+        print(c.split())
+
+        print(max )
+>>>>>>> de61c062df2cd9067778afd98cafa17ccd036d19:Array.py
     except TypeError as e:
         print(f"Caught exception", {e}, {type(e)})
 
