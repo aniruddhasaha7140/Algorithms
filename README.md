@@ -1,4 +1,4 @@
 # Algorithms
 
-# Contains LeetCode problems and Solutions
-# All Leetcode problems with solutions for future references
+Contains LeetCode problems and Solutions.
+All Leetcode problems with solutions for future references
